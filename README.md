@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sarvinoz Saidova
+#  Sarvinoz | Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 A passionate backend developer from Uzbekistan
 
